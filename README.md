@@ -1,7 +1,5 @@
 1️⃣ README.md (sudah diisi: Live Demo + Author)
 
-Silakan ganti README.md kamu dengan versi ini
-(nanti URL Vercel bisa kamu edit setelah deploy, aku tandai jelas 👇)
 
 # Personal Library App
 
