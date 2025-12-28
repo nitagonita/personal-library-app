@@ -1,4 +1,4 @@
-1️⃣ README.md (sudah diisi: Live Demo + Author)
+1️⃣ README.md 
 
 
 # Personal Library App
